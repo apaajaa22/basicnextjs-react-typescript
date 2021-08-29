@@ -1,3 +1,5 @@
+/* eslint-disable import/extensions */
+/* eslint-disable import/no-unresolved */
 import Layout from '../components/Layout';
 import styles from '../styles/Blog.module.css';
 
